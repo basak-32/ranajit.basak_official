@@ -1,0 +1,85 @@
+#contacts {
+  font-family: cursive;
+}
+
+#header {
+  background: linear-gradient(aqua, rgb(22, 172, 172)) !important;
+}
+
+.my-logo {
+  block-size: 3rem;
+}
+
+#about {
+  background: rgb(142, 204, 212); 
+}
+
+.heading-underline {
+  width: 5rem;
+  height: 2px;
+  background: orange;
+}
+
+#skills {
+  background: url(backgroundimage.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.font-medium {
+  font-size: 1.1rem;
+}
+
+#projects {
+  background: rgba(184, 238, 103, 0.8);
+}
+
+.height-80 {
+  min-height: 100vh;
+}
+
+.my-contact {
+  background: url(contact_background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.contact-title {
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+
+.contact-icon {
+  font-size: 1.5rem;
+}
+
+.contact-icon:hover {
+  color: cyan;
+}
+
+.contact-info {
+  font-size: 1.2rem;
+}
+
+.card {
+  background: rgba(255, 120, 120, 0.5);
+}
+
+#footer {
+  background: #333;
+}
+
+.footer-icon {
+  transition: all 0.4s;
+}
+
+.footer-icon:hover {
+  transform: translateY(-0.3rem);
+}
+
+.footer-text a:hover{
+  text-decoration: none;
+  color: rgb(235, 6, 132);
+}
