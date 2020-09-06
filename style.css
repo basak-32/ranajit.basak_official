@@ -21,7 +21,7 @@
 }
 
 #skills {
-  background: url(backgroundimage.jpg);
+  background: url(images/backgroundimage.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -40,7 +40,7 @@
 }
 
 .my-contact {
-  background: url(contact_background.jpg);
+  background: url(images/contact_background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
